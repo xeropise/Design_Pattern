@@ -7,7 +7,7 @@ public class Archer extends Person {
 		System.out.println("활을 손질합니다.");
 
 	}
-	
+	 
 	@Override
 	void prepareArmor() {}
 
